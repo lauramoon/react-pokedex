@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It splits a deck of pokecards, displays them, and determines which player has the highest total experience score.
+
 ## Available Scripts
 
 In the project directory, you can run:
