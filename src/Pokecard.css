@@ -6,6 +6,9 @@
     text-align: center;
     padding: 20px 10px;
     display: inline-block;
+    border-style: solid;
+    border-color: maroon;
+    border-width: 3px;
 }
 
 .Pokecard-h2 {

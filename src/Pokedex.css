@@ -1,3 +1,8 @@
 .Pokedex {
     text-align: center;
+    width: 80%;
+    background-color: lightskyblue;
+    margin: 30px auto;
+    border-radius: 20px;
+    padding: 20px;
 }

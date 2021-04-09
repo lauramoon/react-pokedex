@@ -5,7 +5,7 @@ function Pokecard({ info }) {
   return (
     <div className="Pokecard">
       <h2 className="Pokecard-h2">{info.name}</h2>
-      <img src={imgURL} />
+      <img src={imgURL} alt={info.name} />
       <p>Type: {info.type}</p>
       <p>EXP: {info.base_experience}</p>
     </div>
